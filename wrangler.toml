@@ -1,0 +1,6 @@
+name = "btso-url"
+type = "webpack"
+account_id = "2c272ec1f68b40d119a602d2395f9b51"
+workers_dev = true
+route = ""
+zone_id = ""
