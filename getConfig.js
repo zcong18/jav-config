@@ -8,9 +8,9 @@ export const getAll = async () => {
   ])
 
   return {
-    latest_version: '2.0.0 Alpha 1',
-    latest_version_code: '13',
-    changelog: '',
+    latest_version: '2.2.8',
+    latest_version_code: 13,
+    changelog: '更新配置地址\nbtso 地址使用网络地址',
     data_sources: [
       {
         name: 'AVMOO 日本',
